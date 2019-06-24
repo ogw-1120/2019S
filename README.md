@@ -1,7 +1,7 @@
 ## 2019S
 -Binder
   - このレポジトリのjupyter notebookは以下から実行することができます
-  - https://gke.mybinder.org/v2/gh/UTDataMining/2019S/master
+    - https://gke.mybinder.org/v2/gh/UTDataMining/2019S/master
 - 授業カタログ
   - https://catalog.he.u-tokyo.ac.jp/jd-detail?code=31656&year=2019&x=36&y=11
 - ITC-LMS
